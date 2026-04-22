@@ -70,7 +70,7 @@ petstyle-loja-virtual/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/lucassloliveira/petstyle-loja-virtual.git
+git clone https://github.com/lucassloliveira/petstyle.git
 ```
 
 2. Abra o arquivo `index.html` diretamente no navegador.
